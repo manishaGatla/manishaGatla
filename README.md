@@ -1,7 +1,5 @@
 # Manisha Gatla
 
-![Profile Picture](https://avatars.githubusercontent.com/u/133171351?s=400&u=71ce354d7a722c5d9e25d364c030098482fffa36&v=4) 
-
 **Senior Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manisha-gatla-ab119b236/)
