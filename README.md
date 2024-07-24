@@ -95,14 +95,32 @@ I implemented Angular for effective server-side communication and error handling
 ### Dine on Campus
 - **Technologies:** React, Node.js, MongoDB
 - Pre-booking system for campus dining services with role-based access management.
+- [Repository Link](https://github.com/manishaGatla/DineOnCampus)
 
 ### Amtrak
 - **Technologies:** Python, Angular, MongoDB
 - Comprehensive transportation booking system with a robust backend and frontend.
+-  [Repository Link](https://github.com/manishaGatla/Amtraak)
 
 ### Photo Validation
 - **Technologies:** Angular, AWS Services (Lambda, API Gateway, DynamoDB, S3, EC2)
 - Web-based application with face recognition for secure authentication and sentiment analysis.
+- [Repository Link](https://github.com/manishaGatla/Photo_Validation)
+
+### Book My Doctor
+- **Technologies:** Angular, Node.js, MongoDB
+- Built Book My Doctor to ease healthcare booking.
+- [Repository Link](https://github.com/manishaGatla/BookMyDoc)
+
+### Image Analysis Tool
+- **Technologies**: Angular, Node.js, Azure Services
+- Created an Image Analysis tool for sentiment analysis.
+- [Repository Link](https://github.com/manishaGatla/Image-Analysis)
+
+### TreeSeedlingCart
+- **Technologies**: Angular, .NET Web API, C#, Entity Framework, SQL (Stored Procedures)
+- Developed a TreeSeedlingCart application.
+- [Repository Link](https://github.com/manishaGatla/TreeSeedlingShoppingCart)
 
 ---
 
