@@ -8,6 +8,10 @@
 
 ---
 
+## ![About Me](https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=github&logoColor=white)
+
+With over four years of progressive experience in the IT industry, I have grown from an Associate Software Engineer to a Senior Software Engineer. My expertise includes frontend development using Angular and backend development with .NET MVC, .NET Framework, and .NET Core. I am proficient in leveraging cloud technologies, including AWS and Azure, and excel in agile methodologies, test-driven development, and both monolithic and microservices architectures. My technical skill set encompasses relational and non-relational databases such as SQL, MongoDB, and Neo4j. Additionally, I am adept with tools like Visual Studio, Swagger, and Postman, as well as testing frameworks such as Jest, Cucumber, and Jasmine.
+
 ## 🛠 Skills & Technologies
 
 **Languages & Frameworks:**
@@ -95,32 +99,32 @@ I implemented Angular for effective server-side communication and error handling
 ### Dine on Campus
 - **Technologies:** React, Node.js, MongoDB
 - Pre-booking system for campus dining services with role-based access management.
-- [Repository Link](https://github.com/manishaGatla/DineOnCampus)
+- [![Repository Link](https://img.shields.io/badge/Repository-Dine%20on%20Campus-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/DineOnCampus)
 
 ### Amtrak
 - **Technologies:** Python, Angular, MongoDB
 - Comprehensive transportation booking system with a robust backend and frontend.
--  [Repository Link](https://github.com/manishaGatla/Amtraak)
+- [![Repository Link](https://img.shields.io/badge/Repository-Amtrak-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/Amtraak)
 
 ### Photo Validation
 - **Technologies:** Angular, AWS Services (Lambda, API Gateway, DynamoDB, S3, EC2)
 - Web-based application with face recognition for secure authentication and sentiment analysis.
-- [Repository Link](https://github.com/manishaGatla/Photo_Validation)
+- [![Repository Link](https://img.shields.io/badge/Repository-Photo%20Validation-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/Photo_Validation)
 
 ### Book My Doctor
 - **Technologies:** Angular, Node.js, MongoDB
 - Built Book My Doctor to ease healthcare booking.
-- [Repository Link](https://github.com/manishaGatla/BookMyDoc)
+- [![Repository Link](https://img.shields.io/badge/Repository-Book%20My%20Doctor-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/BookMyDoc)
 
 ### Image Analysis Tool
-- **Technologies**: Angular, Node.js, Azure Services
+- **Technologies:** Angular, Node.js, Azure Services
 - Created an Image Analysis tool for sentiment analysis.
-- [Repository Link](https://github.com/manishaGatla/Image-Analysis)
+- [![Repository Link](https://img.shields.io/badge/Repository-Image%20Analysis%20Tool-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/Image-Analysis)
 
 ### TreeSeedlingCart
-- **Technologies**: Angular, .NET Web API, C#, Entity Framework, SQL (Stored Procedures)
+- **Technologies:** Angular, .NET Web API, C#, Entity Framework, SQL (Stored Procedures)
 - Developed a TreeSeedlingCart application.
-- [Repository Link](https://github.com/manishaGatla/TreeSeedlingShoppingCart)
+- [![Repository Link](https://img.shields.io/badge/Repository-TreeSeedlingCart-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/TreeSeedlingShoppingCart)
 
 ---
 
