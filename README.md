@@ -1,6 +1,6 @@
 # Manisha Gatla
 
-**Senior Software Engineer**
+**Senior Software Engineer | Full Stack (.NET, Angular, React) | Front End Developer | Back End Developer | Cloud & Distributed Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manisha-gatla-ab119b236/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/manishagatla)
@@ -108,6 +108,33 @@
 ---
 
 ## 💼 Professional Experience
+
+### United Wholesale Mortgage (UWM) – Michigan, USA - Software Engineer II | Aug 2024 – Present
+
+Designed and developed microservices-based backend systems using C#, .NET, Entity Framework, and SQL Server to support loan-processing workflows.
+
+Integrated multiple internal services to aggregate and synchronize data across distributed systems with near real-time consistency.
+
+Implemented event-driven architecture using Kafka, creating topics, schemas, producers, and consumers for asynchronous processing.
+
+Scaled Kafka workloads through partitioning and consumer tuning, supporting 50+ trigger-based workflows.
+
+Built backend orchestration workflows to dynamically generate and send templated email communications from a single trigger.
+
+Developed reusable backend components supporting multiple email templates and business workflows.
+
+Implemented scheduler-driven processes to monitor high-volume queues, evaluate SLAs, and apply rule-based escalation logic.
+
+Integrated Redis caching and timestamp-based evaluation to process thousands of active records efficiently.
+
+Led a frontend modernization effort using React and TypeScript, replacing legacy UI components with a reusable component library.
+
+Built role-based dashboards and admin panels, enabling different user groups to view claims data and perform authorized actions.
+
+Implemented light/dark theme support using centralized context-based state management.
+
+Collaborated in a cross-functional Agile environment to deliver scalable features on schedule.
+
 
 ### GEP Solutions Worldwide (June 2022 - April 2023)
 **Senior Software Engineer**
