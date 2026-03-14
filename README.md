@@ -1,6 +1,6 @@
 # Manisha Gatla
 
-**Senior Software Engineer | Full Stack (.NET, Angular, React) | Front End Developer | Back End Developer | Cloud & Distributed Systems**
+**Senior Software Engineer |Senior Backend Developer | Senior Frontend Developer | .Net Developer | Full Stack (.NET, Angular, React) | Cloud & Distributed Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manisha-gatla-ab119b236/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/manishagatla)
