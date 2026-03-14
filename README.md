@@ -1,171 +1,108 @@
-# Manisha Gatla
+# Hi, I'm Manisha Gatla 👋
 
-**Senior Software Engineer |Senior Backend Developer | Senior Frontend Developer | .Net Developer | Full Stack (.NET, Angular, React) | Cloud & Distributed Systems**
+**Senior Software Engineer** with 5+ years of experience in system design, API design, and building scalable, secure distributed systems. Proven expertise in microservices architecture, event-driven systems, cloud modernization, and performance optimization — delivering up to **80% throughput improvements** in enterprise financial systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manisha-gatla-ab119b236/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/manishagatla)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:manishagatla181997@gmail.com)
 
 ---
-## 🛠 Languages
 
-<p align="left"> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="40" height="40"/> 
-</a> 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> 
-</a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
-</a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a> 
-<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
-</a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40"/> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://neo4j.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="neo4j" width="40" height="40"/> 
-</a> 
-</p>
+## 🛠 Tech Stack
 
----
-## 🎓 Education
+**Backend**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-- **Master of Computer Science**  
-  University of Central Missouri, Kansas City, MO
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- **Bachelor of Technology and Science**  
-  Jawaharlal Nehru Technological University, Hyderabad, India
+**Cloud & DevOps**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Databases & Messaging**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+## 💼 Experience
 
-- **Microsoft Spotlight Award**  
-  Honored for launching a feature displaying all actions performed on requests as a history tab.
+### United Wholesale Mortgage — Michigan, USA
+**Software Engineer II** | Aug 2024 – Present
 
-- **Pinnacle Award (Accenture)**  
-  Awarded for successfully implementing a new workflow in the application.
+- Architected microservices-based backend systems using **C#, .NET 8, and Entity Framework**, applying SOLID principles and design patterns to support loan-processing workflows.
+- Implemented event-driven architecture with **Kafka**, building a dictionary-driven dispatch pattern routing **70+ trigger tasks** per loan across **50+ loan lifecycle workflows**.
+- Integrated **Redis caching** with timestamp-based evaluation, reducing database load by **~80%** across high-volume queue management workflows.
+- Raised unit test coverage from **50% to 80%+**, introduced mutation testing (Stryker), and implemented end-to-end integration testing with containerized test artifacts.
+- Built and maintained **CI/CD pipelines** using Azure DevOps and YAML-based automation with quality gates and rollback strategies.
+- Implemented **JWT-based authentication** and role-based access control across internal microservices to protect sensitive loan data.
+- Led frontend modernization by migrating legacy Material UI components to a unified Design System using **React and TypeScript**, improving WCAG accessibility compliance.
+- Mentored junior engineers on microservices design, code quality, and modern DevOps workflows.
+
+---
+
+### GEP Solutions Worldwide — Hyderabad, India
+**Senior Software Engineer** *(Client: Bank of America)* | Jun 2022 – Apr 2023
+
+- Designed and developed secure, scalable web applications using **React, C#, .NET Core, and SQL** in a regulated financial environment.
+- Designed and maintained **RESTful APIs** and third-party integrations for reliable data exchange across enterprise systems.
+- Supported application modernization, migrating legacy workflows to cloud-ready architectures.
+- Improved application performance through API optimization, structured error handling, and logging.
+
+---
+
+### Accenture Private Limited — Hyderabad, India
+**Senior Software Engineer** *(Client: Microsoft)* | Jun 2019 – Jun 2022
+
+- Designed and developed full-stack web applications using **Angular, React, C#**, applying SOLID principles for responsive and maintainable UI components.
+- Built backend services and APIs to support dynamic frontend features and real-time data updates.
+- Improved application performance using caching strategies, lazy loading, and optimized rendering — reducing load times from **minutes to seconds**.
+- Implemented CI/CD pipelines for rapid iteration and reliable deployments.
 
 ---
 
 ## 📂 Projects
 
-### Dine on Campus
-- **Technologies:** React, Node.js, MongoDB
-- Pre-booking system for campus dining services with role-based access management.
-- [![Repository Link](https://img.shields.io/badge/Repository-Dine%20on%20Campus-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/DineOnCampus)
-
-### Amtrak
-- **Technologies:** Python, Angular, MongoDB
-- Comprehensive transportation booking system with a robust backend and frontend.
-- [![Repository Link](https://img.shields.io/badge/Repository-Amtrak-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/Amtraak)
-
-### Photo Validation
-- **Technologies:** Angular, AWS Services (Lambda, API Gateway, DynamoDB, S3, EC2)
-- Web-based application with face recognition for secure authentication and sentiment analysis.
-- [![Repository Link](https://img.shields.io/badge/Repository-Photo%20Validation-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/Photo_Validation)
-
-### Book My Doctor
-- **Technologies:** Angular, Node.js, MongoDB
-- Built Book My Doctor to ease healthcare booking.
-- [![Repository Link](https://img.shields.io/badge/Repository-Book%20My%20Doctor-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/BookMyDoc)
-
-### Image Analysis Tool
-- **Technologies:** Angular, Node.js, Azure Services
-- Created an Image Analysis tool for sentiment analysis.
-- [![Repository Link](https://img.shields.io/badge/Repository-Image%20Analysis%20Tool-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/Image-Analysis)
-
-### TreeSeedlingCart
-- **Technologies:** Angular, .NET Web API, C#, Entity Framework, SQL (Stored Procedures)
-- Developed a TreeSeedlingCart application.
-- [![Repository Link](https://img.shields.io/badge/Repository-TreeSeedlingCart-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/TreeSeedlingShoppingCart)
-
-  
----
-
-## 💼 Professional Experience
-
-### United Wholesale Mortgage (UWM) – Michigan, USA - Software Engineer II | Aug 2024 – Present
-
-Designed and developed microservices-based backend systems using C#, .NET, Entity Framework, and SQL Server to support loan-processing workflows.
-
-Integrated multiple internal services to aggregate and synchronize data across distributed systems with near real-time consistency.
-
-Implemented event-driven architecture using Kafka, creating topics, schemas, producers, and consumers for asynchronous processing.
-
-Scaled Kafka workloads through partitioning and consumer tuning, supporting 50+ trigger-based workflows.
-
-Built backend orchestration workflows to dynamically generate and send templated email communications from a single trigger.
-
-Developed reusable backend components supporting multiple email templates and business workflows.
-
-Implemented scheduler-driven processes to monitor high-volume queues, evaluate SLAs, and apply rule-based escalation logic.
-
-Integrated Redis caching and timestamp-based evaluation to process thousands of active records efficiently.
-
-Led a frontend modernization effort using React and TypeScript, replacing legacy UI components with a reusable component library.
-
-Built role-based dashboards and admin panels, enabling different user groups to view claims data and perform authorized actions.
-
-Implemented light/dark theme support using centralized context-based state management.
-
-Collaborated in a cross-functional Agile environment to deliver scalable features on schedule.
-
-
-### GEP Solutions Worldwide (June 2022 - April 2023)
-**Senior Software Engineer**
-    
-As a Senior Software Engineer, I have consistently delivered high-quality, defect-free projects on time by leveraging rigorous testing, continuous integration, and deployment practices. My expertise in UI development with Angular and React.js is focused on creating responsive designs and enhancing user accessibility, which has significantly improved user interaction and satisfaction.
-
-In a leadership role, I successfully designed, coded, and deployed a critical financial application for BoFA, ensuring compliance with stringent security and data protection standards. I executed complex SQL and graph database operations for optimal data retrieval and integrity and streamlined application tiers, facilitating data migration to modern platforms with robust API integration and error logging using .NET and C#.
-
-By adopting a microservices architecture, I enhanced system performance, reduced code duplication, and improved repository communication. I collaborated closely with business analysts and architects to develop new platform features and functionality, implementing clean coding practices and using iTextSharp for efficient PDF document management. Utilizing asynchronous methods and tasks, I ensured real-time updates and expedited data migration, significantly boosting application performance and user experience.
-
-My exceptional debugging skills have enabled me to quickly resolve issues and implement hotfixes, enhancing system reliability. I have mentored junior developers, contributed to code reviews, and promoted best practices and operational excellence. I advanced UI stability in legacy systems by addressing login challenges with Razor Pages, and improved single-page application performance through Angular's dynamic features.
-
-Additionally, I implemented reusable components and hooks in React, optimized application performance with lazy loading, code splitting, and memoization techniques, and adhered to SOLID principles to ensure API dependability and superior code quality. By implementing advanced automated testing frameworks using Jest, I conducted thorough unit tests, enhancing the reliability and performance of financial applications.
-
-My innovative approach to user-centric experiences prioritizes self-service capabilities and leverages low-code development to enhance overall application usability and efficiency.
-
-
-### Accenture Private Limited (June 2019 - June 2022)
-**Senior Software Engineer**
- 
-In my role as a Senior Software Engineer, I have ensured a seamless and inclusive user experience across various devices by leveraging CSS media queries, Bootstrap, and aria-attributes. I implemented Azure Web Jobs and Function Apps to run at regular intervals, fetching details from the Microsoft CRM application, and collaborated with cross-functional teams to design and implement responsive, mobile-first user interfaces using React and CSS frameworks like Tailwind CSS and Bootstrap.
-
-I developed stored procedures and implemented caching at both the session and API levels, enhancing operational effectiveness and user interaction by leveraging ASP.NET’s asynchronous features and CRM for data retrieval. I improved data retrieval efficiency and safeguarded sensitive information by employing Angular's forkJoin for performance optimization and implementing role-based access control in search features.
-
-Utilizing multithreading and the Task Parallel Library (TPL), I achieved real-time synchronization with the upstream system, significantly enhancing application performance for users handling a large number of requests. My strategic data synchronization methods significantly reduced user wait times. I enabled versatile data export options (Excel, PDF, PPT) using Angular Packages for each format with direct email functionality, and utilized Jasmine to develop and execute integration tests, ensuring seamless interaction between components and services.
-
-I implemented Angular for effective server-side communication and error handling, and integrated Azure Service Bus and Web Jobs to facilitate timely notifications and automate tasks. Maintaining minimal downtime through diligent on-call support and rapid problem-solving was a key aspect of my role. Additionally, I guided new team members, led client demos, and ensured deliverables' production readiness through thorough testing and security audits.
+| Project | Stack | Description |
+|---|---|---|
+| [Dine on Campus](https://github.com/manishaGatla/DineOnCampus) | React, Node.js, MongoDB | Pre-booking system for campus dining with role-based access management |
+| [Photo Validation](https://github.com/manishaGatla/Photo_Validation) | Angular, AWS (Lambda, API Gateway, DynamoDB, S3) | Face recognition for secure authentication and sentiment analysis |
+| [TreeSeedlingCart](https://github.com/manishaGatla/TreeSeedlingShoppingCart) | Angular, .NET Web API, C#, SQL | E-commerce cart application with stored procedures and Entity Framework |
+| [Book My Doctor](https://github.com/manishaGatla/BookMyDoc) | Angular, Node.js, MongoDB | Healthcare appointment booking platform |
+| [Image Analysis Tool](https://github.com/manishaGatla/Image-Analysis) | Angular, Node.js, Azure Services | Sentiment analysis tool using Azure Cognitive Services |
+| [Amtrak](https://github.com/manishaGatla/Amtraak) | Python, Angular, MongoDB | Comprehensive transportation booking system |
 
 ---
 
-## 📫 Contact
+## 🏆 Achievements
 
-- **Email:** manishagatla181997@gmail.com
-- **Alternate Email:** mxg23390@ucmo.edu
+- **AVP Recognition – UWM SLR Release** — Sole engineer recognized by AVP for delivering the Pod Filters feature end-to-end, including cross-team coordination, testing, and post-deploy backfilling.
+- **Microsoft Spotlight Award** — Built a dynamic user-action tracking feature improving system transparency.
+- **Accenture Pinnacle Award** — Led a critical workflow implementation with zero blockers and 100% on-time delivery.
+
+---
+
+## 📜 Certifications
+
+- **Microsoft Certified:** Azure Fundamentals (AZ-900)
+- **Microsoft Certified:** C# Programming
+
+---
+
+## 🎓 Education
+
+- **M.S. Computer Science** — University of Central Missouri, Kansas City, MO
+- **B.Tech** — Jawaharlal Nehru Technological University, Hyderabad, India
