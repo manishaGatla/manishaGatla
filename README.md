@@ -21,6 +21,8 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![dnd kit](https://img.shields.io/badge/dnd--kit-FF6B6B?style=flat&logoColor=white)
 
 **Cloud & DevOps**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
@@ -78,6 +80,7 @@
 
 | Project | Stack | Description |
 |---|---|---|
+| [React Playground Builder](https://github.com/manishaGatla/react-playground-builder) | React 19, MUI v7, dnd-kit | Drag-and-drop UI builder with live property editing, nested containers, and a full-featured sortable/filterable table |
 | [Dine on Campus](https://github.com/manishaGatla/DineOnCampus) | React, Node.js, MongoDB | Pre-booking system for campus dining with role-based access management |
 | [Photo Validation](https://github.com/manishaGatla/Photo_Validation) | Angular, AWS (Lambda, API Gateway, DynamoDB, S3) | Face recognition for secure authentication and sentiment analysis |
 | [TreeSeedlingCart](https://github.com/manishaGatla/TreeSeedlingShoppingCart) | Angular, .NET Web API, C#, SQL | E-commerce cart application with stored procedures and Entity Framework |
@@ -97,6 +100,7 @@
 
 ## 📜 Certifications
 
+- **Google:** Introduction to AI *(via Coursera, Mar 2026)*
 - **Microsoft Certified:** Azure Fundamentals (AZ-900)
 - **Microsoft Certified:** C# Programming
 
